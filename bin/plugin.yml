@@ -1,6 +1,0 @@
-name: AnvilRepair
-main: AnvilRepair.Main
-author: O16
-version: 1.0
-commands:
-   repair:
